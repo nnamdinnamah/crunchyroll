@@ -23,7 +23,7 @@ consumer_key = api_key,
 consumer_secret = api_secret_key,
 access_token = access_token,
 access_secret = access_token_secret
-)
+) 
 get_token()
 ##Search for up to 10,000 (non-retweeted+retweeted) tweets containing the blm hashtag
 df<-search_tweets(
